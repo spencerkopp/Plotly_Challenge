@@ -1,0 +1,10 @@
+body {
+
+    color: #26032b;
+  }
+  .jumbotron {
+    background-image: url("images/fluff.jpg");
+    opacity: 0.8;
+    background-size: 100% 100%;
+    text-align: center;
+  }
